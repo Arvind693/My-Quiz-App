@@ -160,9 +160,8 @@
 @media (max-width:500px),(max-height:800){
     .index{
         right: 7%;
-        top: 18%;
+        top: 17%;
         font-size: 17px;
-        border: 4px solid rgb(198, 178, 24);
     }
     .timer-section{
         right: 2%;
